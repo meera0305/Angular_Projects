@@ -5,7 +5,7 @@
   "projects": {  
     "my_first_ng_app": {
       "projectType": "application",
-      "schematics": {},
+      "schematics": {},  
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
