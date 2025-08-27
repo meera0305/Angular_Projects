@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {  
-    "my_first_ng_app": {
+    "my_first_ng_app": { 
       "projectType": "application",
       "schematics": {},  
       "root": "",
